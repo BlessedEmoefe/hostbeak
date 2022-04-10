@@ -19,7 +19,6 @@ const Dashboard = () => {
       <AnalyticsSection>
         {ChartData.map((item) => (
           <>
-            {/* <AnalyticsCard chartData={item} /> */}
             <Spacer size="small" />
           </>
         ))}
