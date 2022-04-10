@@ -4,7 +4,6 @@ import { AnalyticsSection } from "./Dashboard.styles";
 import { SubHeader } from "../../components/subHeader/subHeader.component";
 import { Spacer } from "../../components/spacer/spacer.component";
 import { TabHeader } from "../../components/tabHeader/tabHeader.component";
-// import { AnalyticsCard } from "../../components/analyticsCard/analyticsCard.component";
 import { ChartData } from "./data";
 
 const Dashboard = () => {
